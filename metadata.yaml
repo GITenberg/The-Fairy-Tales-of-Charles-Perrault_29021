@@ -33,6 +33,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Charles_Perrault
     - http://en.wikipedia.org/wiki/Charles_Perrault
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29021#The-Fairy-Tales-of-Charles-Perrault
 gutenberg_issued: '2009-06-01'
 gutenberg_type: Text
 identifiers:
